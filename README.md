@@ -1,4 +1,9 @@
-﻿
+﻿![screely](https://github.com/Najeeb23/Feedback_flow/assets/147949985/981ad8ec-ce3e-4177-96f6-4fa1faf38d81)
+![screely2](https://github.com/Najeeb23/Feedback_flow/assets/147949985/f85c032c-6d05-431e-95c0-5835d70203e5)
+![Screenshot 2024-05-26 011257](https://github.com/Najeeb23/Feedback_flow/assets/147949985/43a9f5a8-77f7-47b7-a7d6-a5860b75dfbd)
+
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
