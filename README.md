@@ -1,14 +1,4 @@
-# Feedback_flow
-![screely](https://github.com/Najeeb23/Feedback_flow/assets/147949985/f5c440c0-3d5e-4dcd-b989-e57bbcd12426)
-![screely2](https://github.com/Najeeb23/Feedback_flow/assets/147949985/498e1b8c-2558-40d0-92c1-67f60b175780)
-
-
-
-![Screenshot 2024-05-26 011257](https://github.com/Najeeb23/Feedback_flow/assets/147949985/3087fdad-fa44-4b24-87a3-2f9be411f152)
-<br>
-![Screenshot 2024-05-26 011319](https://github.com/Najeeb23/Feedback_flow/assets/147949985/e66838b6-e338-45c5-a709-fbce27413e46)
-
-
+﻿
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
